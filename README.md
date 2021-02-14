@@ -1,4 +1,9 @@
-# Image-compare Delphi Pure
+
+
+# Image-compare in Pure Delphi
+![Delphi Supported Versions](https://img.shields.io/badge/Delphi%20Supported%20Versions-XE3%20and%20ever-blue.svg)
+![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
+
 ## Compre two images e result the simillary in pixel.
 ![Badge](https://img.shields.io/badge/FlexnetSistemas-%237159c1?style=for-the-badge&logo=ghost)
 
