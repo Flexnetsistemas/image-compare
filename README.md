@@ -1,4 +1,5 @@
-# Image-compare in Delphi Pure
+# Image-compare 
+- Delphi Pure
 ![Delphi Supported Versions](https://img.shields.io/badge/Delphi%20Supported%20Versions-XE3%20and%20ever-blue.svg)
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 
