@@ -12,7 +12,7 @@
 </h1>
 
 ## Status Project
-	🚧 Em construção...  🚧
+	🚧 under construction...  🚧
  
 ## Features
 - [x] Compare image .bmp
