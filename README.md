@@ -1,8 +1,3 @@
-
-<h1 align="center">
-    <img src="./Images/delphi-logo.jpg" alt=""/>
-</h1>
-
 # Image-compare in Delphi Pure
 ![Delphi Supported Versions](https://img.shields.io/badge/Delphi%20Supported%20Versions-XE3%20and%20ever-blue.svg)
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
