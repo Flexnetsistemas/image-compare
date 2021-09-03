@@ -29,9 +29,6 @@
  <br />
  <sub><b>Ricardo de Assis</b></sub></a> <a href="https://www.flexnetsistemas.com.br/" title="Flexnet">🚀</a>
 
-
-Feito com ❤️ por Ricardo Assis 👋🏽 Entre em contato!
-
 [![Linkedin Badge](https://img.shields.io/badge/-Ricardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-de-assis-dev/)](https://www.linkedin.com/in/ricardo-de-assis-dev/) 
 [![Gmail Badge](https://img.shields.io/badge/-rdassis@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rdassis@gmail.com)](mailto:rdassis@gmail.com)
 
